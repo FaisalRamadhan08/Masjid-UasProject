@@ -157,8 +157,8 @@
                     </a>
                 </li>
 
-                <li class="sidebar-main-title">
-                    <div>
+                <li class="sidebar-main-title" style="color: rgb(255, 255, 255)">
+                    <div style="background-color: rgba(240, 248, 255, 1);">
                         <h6>Kelola Data Website</h6>
                         <p>Berita Acara & Galeri</p>
                     </div>
