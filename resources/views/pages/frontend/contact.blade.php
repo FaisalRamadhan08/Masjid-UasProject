@@ -7,7 +7,7 @@
                 =========================  -->
         <section class="google-map py-0">
             <iframe frameborder="0" height="500" width="100%"
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3957.0354165917247!2d108.22018197552354!3d-7.3499197723104475!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6f5765c64bb1f9%3A0xd8b04746f0f62ad4!2sUniversitas%20Siliwangi!5e0!3m2!1sid!2sid!4v1681510469776!5m2!1sid!2sid&amp;t=m&amp;z=10&amp;output=embed&amp;iwloc=near"></iframe>
+                src="<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.8506088515956!2d107.61950267581284!3d-6.90846046761349!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e7cab4df1b95%3A0x24cc49a7837e98f7!2sJl.%20Cihapit%20No.8a%2C%20Cihapit%2C%20Kec.%20Bandung%20Wetan%2C%20Kota%20Bandung%2C%20Jawa%20Barat%2040114!5e0!3m2!1sen!2sid!4v1684933874855!5m2!1sen!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"></iframe>
         </section><!-- /.GoogleMap -->
 
         <!-- ==========================
@@ -28,8 +28,8 @@
                                 <div class="contact-info-box">
                                     <h4 class="contact__info-box-title">Hubungi Kami</h4>
                                     <ul class="contact__info-list list-unstyled">
-                                        <li>Email: <a href="mailto:apps.zaqat@gmail.com">apps.zaqat@gmail.com</a></li>
-                                        <li>Support: <a href="mailto:apps.zaqat@gmail.com">apps.zaqat@gmail.com</a></li>
+                                        <li>Email: <a href="mailto:apps.zaqat@gmail.com">mahzuzhazman@gmail.com</a></li>
+                                        <li>Support: <a href="mailto:apps.zaqat@gmail.com">mahzuz.hazman@mhs.itenas.ac.id</a></li>
                                     </ul><!-- /.contact__info-list -->
                                 </div><!-- /.contact-info-box -->
                                 <div class="contact-info-box">
