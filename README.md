@@ -1,4 +1,4 @@
-<h1 align="center">Tugas Akhir Pemrograman Web Lanjut🏻</h1>
+<h1 align="center">Tugas Akhir Pemrograman Web Lanjut</h1>
 
 Repository ini dibuat untuk memenuhi tugas akhir pemrograman web lanjut, kami membuat website untuk para dkm masjid agar bisa mengelola zakat masuk secara digita.
 
