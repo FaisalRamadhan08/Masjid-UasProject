@@ -14,7 +14,7 @@
                         <div class="row">
                             <div class="col-sm-12 col-md-12 col-lg-12 col-xl-8">
                                 <div class="slide__body">
-                                    <span class="slide__subtitle">Pengelolaan, Distribusi dan Pelaporan Zakat Fitrah</span>
+                                    <span class="slide__subtitle">Jamal anak ah</span>
                                     <h2 class="slide__title">Kami Mendigitalisasi Pembayaran Zakat Fitrah di Indonesia</h2>
                                     <p class="slide__desc">Jadikan pengalaman pembayaran dan pengelolaan zakat fitrah
                                         menjadi lebih mudah dan nyaman dengan aplikasi Zaqat.</p>
