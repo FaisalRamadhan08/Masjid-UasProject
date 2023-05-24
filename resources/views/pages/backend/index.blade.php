@@ -11,22 +11,6 @@
     @endpush
 
     <div class="container-fluid">
-        <div class="row mb-4">
-            <div class="col-xl-12 col-12 mt-4">
-                <div class="splide"
-                    style="box-shadow:rgba(0, 0, 0, 0.05) 0px 0px 4px 0px, rgba(0, 0, 0, 0.1) 0px 4px 24px 0px; border-radius:8px;">
-                    <div class="splide__track">
-                        <ul class="splide__list">
-                            <li class="splide__slide">
-                                <img src="{{ url('images/splide/index.png') }}" class="d-block w-100"
-                                    style="border-radius:8px;">
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-
         <div class="row second-chart-list third-news-update">
             <div class="col-sm-8">
                 <div class="card">
