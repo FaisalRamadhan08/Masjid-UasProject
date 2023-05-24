@@ -7,7 +7,7 @@
                 =========================  -->
         <section class="google-map py-0">
             <iframe frameborder="0" height="500" width="100%"
-                src="<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.8506088515956!2d107.61950267581284!3d-6.90846046761349!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e7cab4df1b95%3A0x24cc49a7837e98f7!2sJl.%20Cihapit%20No.8a%2C%20Cihapit%2C%20Kec.%20Bandung%20Wetan%2C%20Kota%20Bandung%2C%20Jawa%20Barat%2040114!5e0!3m2!1sen!2sid!4v1684933874855!5m2!1sen!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"></iframe>
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.8506088515956!2d107.61950267581284!3d-6.90846046761349!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e7cab4df1b95%3A0x24cc49a7837e98f7!2sJl.%20Cihapit%20No.8a%2C%20Cihapit%2C%20Kec.%20Bandung%20Wetan%2C%20Kota%20Bandung%2C%20Jawa%20Barat%2040114!5e0!3m2!1sen!2sid!4v1684933874855!5m2!1sen!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"></iframe>
         </section><!-- /.GoogleMap -->
 
         <!-- ==========================
