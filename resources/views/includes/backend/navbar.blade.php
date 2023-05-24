@@ -40,19 +40,7 @@
         </div>
         <div class="nav-right col-8 pull-right right-header p-0">
             <ul class="nav-menus">
-                <li>
-                    <div class="mode">
-                        <a href="#" data-toggle="tooltip" data-placement="bottom" title="Dark Mode">
-                            <i data-feather="moon"></i>
-                        </a>
-                    </div>
-                </li>
-                <li class="maximize">
-                    <a data-toggle="tooltip" data-placement="bottom" title="Full Screen" class="text-dark"
-                        href="#!" onclick="javascript:toggleFullScreen()">
-                        <i data-feather="maximize"></i>
-                    </a>
-                </li>
+            
                 <li class="profile-nav onhover-dropdown p-0 ml-2 mr-0">
                     <div class="media profile-media">
                         <img class="b-r-10"
