@@ -12,8 +12,8 @@
                     </div>
                 </li>
 
-                <li class="sidebar-main-title pt-0">
-                    <div>
+                <li class="sidebar-main-title pt-0" style="color: rgb(255, 255, 255)">
+                    <div style="background-color: rgba(240, 248, 255, 1);">
                         <h6>Halaman Utama</h6>
                         <p>Dashboard & Overview</p>
                     </div>
@@ -26,8 +26,8 @@
                     </a>
                 </li>
 
-                <li class="sidebar-main-title">
-                    <div>
+                <li class="sidebar-main-title" style="color: rgb(255, 255, 255)">
+                    <div style="background-color: rgba(240, 248, 255, 1);)">
                         <h6>Kelola Data Warga</h6>
                         <p>Muzakki & Mustahik</p>
                     </div>
@@ -90,8 +90,8 @@
                     </ul>
                 </li>
 
-                <li class="sidebar-main-title">
-                    <div>
+                <li class="sidebar-main-title" style="color: rgb(255, 255, 255)">
+                    <div style="background-color: rgba(240, 248, 255, 1);">
                         <h6>Kelola Distribusi & Pengumpulan Zakat</h6>
                         <p>Pengumpulan & Distribusi Zakat</p>
                     </div>
@@ -136,8 +136,8 @@
                 </li>
 
 
-                <li class="sidebar-main-title">
-                    <div>
+                <li class="sidebar-main-title" style="color: rgb(255, 255, 255)">
+                    <div style="background-color: rgba(240, 248, 255, 1);">
                         <h6>Laporan Zakat Fitrah</h6>
                         <p>Laporan Distribusi & Pengumpulan</p>
                     </div>
